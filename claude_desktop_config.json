@@ -5,6 +5,12 @@
             "args": [
                 "C:\\test\\tutorial_1.py"
             ]
+        },
+        "tutorial_2": {
+            "command": "python",
+            "args": [
+                "C:\\test\\tutorial_2.py"
+            ]
         }
     }
 }

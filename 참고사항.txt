@@ -1,0 +1,1 @@
+클로드_데스크톱_컨피그.json 파일은 실제 경로에 포함해야합니다. C:UsersUsernameAppDataRoamingClaude
