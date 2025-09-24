@@ -11,6 +11,12 @@
             "args": [
                 "C:\\test\\tutorial_2.py"
             ]
+        },
+        "tutorial_3": {
+            "command": "python",
+            "args": [
+                "C:\\test\\tutorial_3.py"
+            ]
         }
     }
 }
