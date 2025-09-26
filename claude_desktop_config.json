@@ -1,28 +1,15 @@
 {
-    "mcpServers": {
-        "tutorial_1": {
-            "command": "python",
-            "args": [
-                "C:\\test\\tutorial_1.py"
-            ]
-        },
-        "tutorial_2": {
-            "command": "python",
-            "args": [
-                "C:\\test\\tutorial_2.py"
-            ]
-        },
-        "tutorial_3": {
-            "command": "python",
-            "args": [
-                "C:\\test\\tutorial_3.py"
-            ]
-        },
-        "tutorial_4": {
-            "command": "python",
-            "args": [
-                "C:\\test\\tutorial_4.py"
-            ]
-        }
+  "mcpServers": {
+    "server": {
+      "command": "C:\\Users\\dooy9\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\uv.EXE",
+      "args": [
+        "run",
+        "--with",
+        "mcp[cli]",
+        "mcp",
+        "run",
+        "C:\\test\\server.py"
+      ]
     }
+  }
 }
